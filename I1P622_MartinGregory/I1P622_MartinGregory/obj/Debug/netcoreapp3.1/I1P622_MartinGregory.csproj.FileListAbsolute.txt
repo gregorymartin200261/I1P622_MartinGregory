@@ -1,0 +1,14 @@
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\bin\Debug\netcoreapp3.1\I1P622_MartinGregory.exe
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\bin\Debug\netcoreapp3.1\I1P622_MartinGregory.deps.json
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\bin\Debug\netcoreapp3.1\I1P622_MartinGregory.runtimeconfig.json
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\bin\Debug\netcoreapp3.1\I1P622_MartinGregory.runtimeconfig.dev.json
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\bin\Debug\netcoreapp3.1\I1P622_MartinGregory.dll
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\bin\Debug\netcoreapp3.1\I1P622_MartinGregory.pdb
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.csproj.AssemblyReference.cache
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.GeneratedMSBuildEditorConfig.editorconfig
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.AssemblyInfoInputs.cache
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.AssemblyInfo.cs
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.csproj.CoreCompileInputs.cache
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.dll
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.pdb
+E:\ex_git\I1P622_MartinGregory\I1P622_MartinGregory\obj\Debug\netcoreapp3.1\I1P622_MartinGregory.genruntimeconfig.cache
